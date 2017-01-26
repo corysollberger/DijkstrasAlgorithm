@@ -1,0 +1,24 @@
+Program Created for COS 350: Data Structures and Algorithms at the University of Maine
+Created by: Cory Sollberger & Zach Hutchins
+
+Project Description in pdf document
+
+Run the Makefile
+
+make all: 
+
+make clean
+
+Run the makefile and it will compile the contents for you
+
+Once the files are compiled run the Driver.java file to run the program
+
+To Run the algorithm within the program simply click the start button and a path will be created from the start
+to destination point. You can change the destination and start positions by clicking the buttons labeled respectively.
+
+The traffic button adds the element of traffic to the edges impacting the weights of paths. Everytime you select the
+start button a new instance is run.
+
+Thank you!
+
+Cory S. & Zach Hutchins
